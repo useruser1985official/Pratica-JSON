@@ -1,0 +1,36 @@
+{ 
+    "pedido": {
+        "id": 12345,
+        "cliente": {
+            "nome": "João Silva",
+            "email": "joão@email.com",
+            "endereco": {
+                "rua": "Rua das Flores",
+                "numero": 100,
+                "cidade": "São Paulo",
+                "estado": "SP",
+                "cep": "01000-000"
+            }
+        },
+        "produtos": [
+            {
+                "codigo": "A001",
+                "nome": "Notebook",
+                "quantidade": 1,
+                "preco": 3500.00
+            },
+            {
+                "codigo": "B002",
+                "nome": "Mouse",
+                "quantidade": 2,
+                "preco": 100.00
+            }
+        ],
+        "pagamento": {
+            "metodo": "Cartão de crédito",
+            "parcelas": 10
+        },
+        "total": 3700.00,
+        "entrega": true
+    }
+}
