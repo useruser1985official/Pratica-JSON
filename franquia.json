@@ -1,0 +1,38 @@
+{
+    "filmes": [
+        {
+            "titulo": "Batman",
+            "diretor": "Tim Burton",
+            "duracao": 126,
+            "genero": [
+                "Ação",
+                "Fantasia"
+            ],
+            "ano": 1989,
+            "elenco": [
+                "Michael Keaton",
+                "Jack Nicholson",
+                "Kim Basinger",
+                "Michael Gough",
+                "Billy Dee Williams"
+            ]
+        },
+        {
+            "titulo": "Batman, o Retorno",
+            "diretor": "Tim Burton",
+            "duracao": 126,
+            "genero": [
+                "Ação",
+                "Fantasia"
+            ],
+            "ano": 1992,
+            "elenco": [
+                "Michael Keaton",
+                "Michelle Pfeiffer",
+                "Dany DeVito",
+                "Michael Gough",
+                "Christopher Walker"
+            ]
+        }
+    ]
+}
