@@ -1,0 +1,39 @@
+{
+    "comidas": [
+        {
+            "item": "Hambúrguer",
+            "preco": 18.99,
+            "quantidade": 2
+        },
+        {
+            "item": "Batata Frita",
+            "preco": 12.99,
+            "quantidade": 1
+        }
+    ],
+    "bebidas": [
+        {
+            "item": "Coca-Cola",
+            "preco": 12.99,
+            "quantidade": 1
+        },
+        {
+            "item": "Guaraná Kuat",
+            "preco": 10.99,
+            "quantidade": 1
+        }
+    ],
+    "outros": [
+        {
+            "item": "Molho Barbecue",
+            "preco": 2.99,
+            "quantidade": 2
+        },
+        {
+            "item": "Sundae",
+            "preco": 10.99,
+            "quantidade": 2
+        }
+    ],
+    "total": 102.91
+}

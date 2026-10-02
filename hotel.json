@@ -1,0 +1,25 @@
+{
+    "quartos": [
+        {
+            "numero": 1111,
+            "hospede": "Fulano da Silva",
+            "ocupado": false,
+            "diasRestantes": 0,
+            "precoPorDia": 249.99
+        },
+        {
+            "numero": 2222,
+            "hospede": "Beltrano de Souza",
+            "ocupado": true,
+            "diasRestantes": 3,
+            "precoPorDia": 299.99
+        },
+        {
+            "numero": 3333,
+            "hospede": "Sicrano dos Santos",
+            "ocupado": true,
+            "diasRestantes": 5,
+            "precoPorDia": 349.99
+        }
+    ]
+}
